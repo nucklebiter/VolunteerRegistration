@@ -1,5 +1,5 @@
-﻿using VolunteerRegistrationWeb.Model;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using VolunteerRegistrationWeb.Model;
 
 namespace VolunteerRegistrationWeb.Data
 {
